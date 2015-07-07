@@ -1,0 +1,9 @@
+Origin: mmfamily's Repo
+Label: mmfamily's Repo
+Suite: stable
+Version: 1.0
+Codename: mmfamily
+Architecture: iphoneos-arm
+Components: main
+Description: mmfamily's Repo
+MD5Sum:
