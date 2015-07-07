@@ -37,9 +37,9 @@ Maintainer: mmm
 Depends: com.alexzielenski.zeppelin
 Filename: debs//com.myanmarflaglogo.zeppelin.deb
 Size: 5116
-MD5sum: C43C0F0B3DE6320D61EE43BB2AEFE511
-SHA1: 206D1FB97495B9C759129A72E2B51E48FD048152
-SHA256: 2073F03B960C05471B611FD38E53EBA310663ECBED83DC1144A4F864BB2CB933
+MD5sum: c43c0f0b3de6320d61ee43bb2aefe511
+SHA1: 206d1fb97495b9c759129a72e2b51e48fd048152
+SHA256: 2073f03b960c05471b611Fd38e53eba310663ecbed83dc1144a4f864bb2cb933
 Section: Addons (Zeppelin)
 Description: Myanmar Flag Logo 
 Author: Min Thike <mt.myanmarfamily@gmail.com>
