@@ -10,19 +10,11 @@ Depends: winterboard
 
 Filename: debs//com.evoofmancarrierbars.theme.deb
 
-Size: 38718
-
-MD5sum:C74B35D66598A62FA86797C48CC53CC3
-
-SHA1:0C7535BC0899B1CA5C235261A46C9C0FE0198A69
-
-SHA256:8DD248B5AEFD355C02072B001065AA97AEC1EF07BC91D00E5AF82DE8E6387DE0
-
-Section:iTheme
+Section: iTheme
 
 Description:Evo of man Carrier Bars.theme. Credit to original designer of Evo of man carrier bar themer..
 
-Author:Min Thike <mt.myanmarfamily@gmail.com>
+Author: Min Thike <mt.myanmarfamily@gmail.com>
 
 Depiction: http://mmfamily.github.io/Depic/com.evomancarrierbar.theme/index.html
 
