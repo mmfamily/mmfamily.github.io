@@ -30,4 +30,19 @@ Author: Min Thike <mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.miosrespring.theme/index.html
 Name:  MIOS Respring Theme
 
+Package: com.myanmarflaglogo.zeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: com.alexzielenski.zeppelin
+Filename: debs//com.myanmarflaglogo.zeppelin.deb
+Size: 2634
+MD5sum: 02F19A7386B6DCC7783441E241B3195E
+SHA1: 24B32F7F64B700CED7699F2F5F162F81B5590C45
+SHA256: 9901ECD630DFEF741DEB267FAC88F8208B07B240149EA798C32401FBB6B28585
+Section: Addons (Zeppelin)
+Description: Myanmar Flag Logo (Zeppelin)
+Author: Min Thike <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.miosrespring.theme/index.html
+Name:  Myanmar Flag Logo (Zeppelin)
 
