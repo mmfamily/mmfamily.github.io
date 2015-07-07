@@ -1,29 +1,18 @@
 Package: com.evoofmancarrierbars.theme
-
 Version: 1.0
-
 Architecture: iphoneos-arm
-
 Maintainer: mmm
-
 Depends: winterboard
-
 Filename: debs//com.evoofmancarrierbars.theme.deb
-
 Size: 38718
-
 MD5sum: c74b35d66598a62fa86797c48cc53cc3
-
-SHA1: 0C7535BC0899B1CA5C235261A46C9C0FE0198A69
-
-SHA256: 8DD248B5AEFD355C02072B001065AA97AEC1EF07BC91D00E5AF82DE8E6387DE0
+SHA1: 0c7535bc0899b1ca5c235261a46c9c0fe0198a69
+SHA256: 8dd248b5aefd355c02072b001065aa97aec1ef07bc91d00e5af82de8e6387de0
 Section: iTheme
-
-Description:Evo of man Carrier Bars.theme. Credit to original designer of Evo of man carrier bar themer..
-
+Description: Evo of man Carrier Bars.theme. Credit to original designer of Evo of man carrier bar themer..
 Author: Min Thike <mt.myanmarfamily@gmail.com>
-
 Depiction: http://mmfamily.github.io/Depic/com.evomancarrierbar.theme/index.html
-
 Name: Evo of man Carrier Bars.theme
+
+
 
