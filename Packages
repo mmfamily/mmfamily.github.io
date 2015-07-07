@@ -14,5 +14,20 @@ Author: Min Thike <mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.evomancarrierbar.theme/index.html
 Name: Evo of man Carrier Bars.theme
 
+Package: com.miosrespring.theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: winterboard
+Filename: debs//com.miosrespring.theme.deb
+Size: 106688
+MD5sum: DE8AF14F5F87237F308396066F16AFBC
+SHA1: DE8AF14F5F87237F308396066F16AFBC
+SHA256: 34B25D146E248A814BDEE3CC06CF5BEA06179258
+Section: iTheme
+Description: Myanmar iOS User Group Respring theme. Credit to original logo designer and Ko Lin Latt..
+Author: Min Thike <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.miosrespring.theme/index.html
+Name:  MIOS Respring Theme
 
 
