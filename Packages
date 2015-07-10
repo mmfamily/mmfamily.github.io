@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: mmm
 Depends: com.alexzielenski.zeppelin
 Filename: debs//com.myanmarflaglogo.zeppelin.deb
-Size: 5116
-MD5sum: c43c0f0b3de6320d61ee43bb2aefe511
-SHA1: 206d1fb97495b9c759129a72e2b51e48fd048152
-SHA256: 2073f03b960c05471b611Fd38e53eba310663ecbed83dc1144a4f864bb2cb933
+Size: 2642
+MD5sum: efb6632de5696eb159fc86f39d53d6aa
+SHA1: 5461ebc5695ce44b9ba0f5e091ca6b5c63bc4cc8
+SHA256: c3e4b8c865e05ad7849e38d74a83f65a7a0bf7a9efe668df62c444d0e49d1e88
 Section: Addons (Zeppelin)
 Description: Myanmar Flag Logo 
 Author: Min Thike <mt.myanmarfamily@gmail.com>
