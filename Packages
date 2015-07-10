@@ -47,6 +47,21 @@ Depiction: http://mmfamily.github.io/Depic/com.myanmarflaglogo.zeppelin/index.ht
 Name:  Myanmar Flag Logo
 
 
+Package: com.MMdigitAltStatusbar.theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: winterboard
+Filename: debs//com.MMdigitAltStatusbar.theme.deb
+Size: 57938
+MD5sum: 3bd011798bd95b18e8a69073acc58cf3
+SHA1: dc0f360602c473a659112b42c2be7680cd9fe20b
+SHA256: 4590980cd901e51a884cc18d4d1a3d907a73d5bd7e44313f579d333088e7bca6
+Section: iTheme
+Description: Myanmar Digit Alt Statusbar Theme 
+Author: Min Thike <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.MMdigitAltStatusbar.theme/index.html
+Name:  Myanmar Digit Alt Statusbar Theme
 
 
 
