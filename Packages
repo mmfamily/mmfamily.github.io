@@ -64,4 +64,21 @@ Depiction: http://mmfamily.github.io/Depic/com.MMdigitAltStatusbar.theme/index.h
 Name:  Myanmar Digit Alt Statusbar Theme
 
 
+Package: com.lbimmdigitbnw36px.alkaline
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: com.fortysixandtwo.alkaline
+Filename: debs//com.lbimmdigitbnw36px.alkaline.deb
+Size: 138262
+MD5sum: 3a9eede73cc13a8a7c747167a216b2f1
+SHA1: 5a84e3c6e121fd56490ffdf7cca31e979704c8ca
+SHA256: b73276c2d710897970a6781f821c7ba0f7e6cf190a88abbe43abcfadb9824e8b
+Section: Addons (Alkaline)
+Description: LBI MM digit b&w 36px alkaline theme. Credit to original creator of LBI alkaline..
+Author: Min Thike <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.lbimmdigitbnw36px.alkaline/index.html
+Name:  LBI MM digit b&w 36px (alkaline)
+
+
 
