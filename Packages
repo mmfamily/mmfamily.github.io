@@ -88,9 +88,9 @@ Maintainer: mmm
 Depends: winterboard
 Filename: debs//com.mmwordsstusbar.theme.deb
 Size: 42760
-MD5sum: 6B0FB0B5C2B79D7B4CF0B281D73D7767
-SHA1: D49482114F93472A86F82BC8A6C43E6ADD6926FC
-SHA256: F531F3FA36C124634D5F1464266E6D94B7EA601AF005EC61F65CC283262F7F69
+MD5sum: 6b0fb0b5c2b79d7b4cf0b281d73d7767
+SHA1: d49482114f93472a86f82bc8a6c43e6add6926fc
+SHA256: f531f3fa36c124634d5f1464266e6d94b7ea601af005ec61f65cc283262f7f69
 Section: iTheme
 Description: MM words statusbar theme
 Author: Min Thike <mt.myanmarfamily@gmail.com>
