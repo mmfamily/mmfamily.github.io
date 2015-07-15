@@ -84,18 +84,19 @@ Name:  LBI MM digit b&w 36px (alkaline)
 Package: com.mmwordsstatusbar.theme
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: mmm 
+Maintainer: mmm
 Depends: winterboard
-Filename: debs//com.mmwordsstatusbar.theme.deb
-Size: 42756
-MD5sum: 92652e2b949c6dd2e528fc088cc33865
-SHA1: b4e58ce4f75a33ee3439209623092cc49c126350
-SHA256: 38028732f530b034681f0f86a6ae0b31789612448ad7738e7a6de6eea3704a83
-Section: iThemes
+Filename: debs//com.mmwordsstusbar.theme.deb
+Size: 42760
+MD5sum: 6B0FB0B5C2B79D7B4CF0B281D73D7767
+SHA1: D49482114F93472A86F82BC8A6C43E6ADD6926FC
+SHA256: F531F3FA36C124634D5F1464266E6D94B7EA601AF005EC61F65CC283262F7F69
+Section: iTheme
 Description: MM words statusbar theme
 Author: Min Thike <mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.mmwordsstatusbar.theme/index.html
-Name: MM words statusbar theme
+Name:  MM words statusbar theme
+
 
 
 
