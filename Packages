@@ -97,6 +97,26 @@ Author: Min Thike <mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.mmwordsstatusbar.theme/index.html
 Name:  MM words statusbar theme
 
+Package: com.lockglyphmyanmar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//LockglyphMyanmar.deb
+Size: 7006
+MD5sum: 729f369e7d991950870299c7f7ea22b4
+SHA1: 56c8b4ede2075b2df65293d94116f4e3382eaa14
+SHA256: 05eeef7d1a4bc051a1bb05314b11a5ddb15f8ae485438f9cc07d79b74e5007ec
+Section: Themes (LockScreen)
+Description: This lockglyph theme contains a circular rendition of the Myanmar flag.
+Author: MT <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.lockglyphmyanmar/index.html
+Name:  Lockglyph - Myanmar
+
+
+
+
+
 
 
 
