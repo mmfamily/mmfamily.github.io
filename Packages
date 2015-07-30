@@ -113,6 +113,22 @@ Author: MT <mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.lockglyphmyanmar/index.html
 Name:  Lockglyph - Myanmar
 
+Package: com.easytextmm.iwidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends:  com.eldwin.iwidgets
+Filename: debs//EasytextMMiWidget.deb
+Size: 1840466
+MD5sum: 316dc64a03b6e2e6d598a15f14aa6a1e
+SHA1: 8588481aef2fcead3378dd07afba8e250172875f
+SHA256: 99b9bc233d559da146fecf6fcc53346d0d7e3ecb0219ff5012ccda47694e4e8b
+Section: iWidgets
+Description: Easy Text MM 220x100 iWidgets
+Author: MT <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.easytextmmiwidget/index.html
+Name:  Easy Text MM 220x100 iWidget
+
 
 
 
