@@ -119,10 +119,10 @@ Architecture: iphoneos-arm
 Maintainer: mmm
 Depends:  com.eldwin.iwidgets
 Filename: debs//EasytextMMiWidget.deb
-Size: 1840484
-MD5sum: 997406f1a4e7dfc02469bdddb6857fae
-SHA1: 9c890348bb64c83539c3a7a1baa1f63a3c44d942
-SHA256: c8ee0d4d3b7b14163a0731365679b29d22cd09c206a91a9dc9f69bd107034fce
+Size: 1840494
+MD5sum: 3a0c1348ccc76a605690d7b8e7c2916c
+SHA1: 033aa41b7f509eddf6698b548be8d626371007d6
+SHA256: efdd54170f32072366a35a814f597610c9a93ef4f02c0cf35149f535448987da
 Section: iWidgets
 Description: Easy Text MM 220x100 iWidgets
 Author: MT <mt.myanmarfamily@gmail.com>
