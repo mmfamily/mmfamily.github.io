@@ -130,6 +130,22 @@ Depiction: http://mmfamily.github.io/Depic/com.easytextmmiwidget/index.html
 Name:  Easy Text MM 220x100 iWidget
 
 
+Package: com.mmwordscc.theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: winterboard
+Filename: debs//MyanmarwordsCCtheme.deb
+Size: 71166
+MD5sum: 5a8f4f1e2e4b166b73d564f665bf9588
+SHA1: cf619b95a3bbe3cbb94eb932e3b5b860a2ed049d
+SHA256: a9477349b07bf67250efc0c586c81e722a45c90a57ff1a98287cd9dd124a9037
+Section: iTheme
+Description: Myanmar words Control Center theme. Credit to original designer of Arketyp CC theme. 
+Author: Min Thike <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.myanmarwordscc.theme/index.html
+Name:  Myanmar words CC theme
+
 
 
 
