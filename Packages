@@ -164,6 +164,22 @@ Depiction: http://mmfamily.github.io/Depic/com.mmwordssteelkeypad/index.html
 Name:  Myanmar words steel keypad
 
 
+Package:com.myanmarwordsfire.keypad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: winterboard
+Filename: debs//MMwordsfirekeypad.deb
+Size: 210156
+MD5sum: 7339fea8b1064d9447e5163a34771671
+SHA1: e2b8fb9d703b8253e450547b434d4bfda84eecb5
+SHA256: 9eedb2d59a74c3d209ad06a7ecdc37f5f0960d6e738dd58246c02d893a2fd45b
+Section: iTheme
+Description: Myanmar words fire keypad theme.. You need to have winterboard installed. 
+Author: MT<mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.mmwordsfirekeypad/index.html
+Name:  Myanmar words fire keypad
+
 
 
 
