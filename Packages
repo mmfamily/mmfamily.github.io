@@ -147,7 +147,21 @@ Depiction: http://mmfamily.github.io/Depic/com.myanmarwordscc.theme/index.html
 Name:  Myanmar words CC theme
 
 
-
+Package:com.myanmarwordssteel.keypad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: winterboard
+Filename: debs//MMwordssteelkeypad.deb
+Size: 94226
+MD5sum: 973da0bcc7bfc04ceea821b8c9198540
+SHA1: 5e23aba3ecfa6163bdbf9029b3ba827d9be83ad2
+SHA256: efa943f6fd1c3936aea2e49f8f20694897d60c0d2dd5dd4b88374951a4ea5690
+Section: iTheme
+Description: Myanmar words steel keypad theme.. You need to have winterboard installed. 
+Author: MT<mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.mmwordssteelkeypad/index.html
+Name:  Myanmar words steel keypad
 
 
 
