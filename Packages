@@ -180,7 +180,36 @@ Author: MT<mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.mmwordsfirekeypad/index.html
 Name:  Myanmar words fire keypad
 
+Package:com.gold.keypad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: winterboard
+Filename: debs//Goldkeypad.deb
+Size: 67232
+MD5sum: 0d539bc4d315a3bc382ac3fe6d7df24c
+SHA1: c78aa35cd6abf194f9248258cb5fc5b687dc81d8
+SHA256: 3e1a6b9a64c99978f2d4e9ac1c07f0894f2412c2d973ab66128604dc955ec00b
+Section: iTheme
+Description: Hello this is Gold keypad theme for you. Please save Myanmar flood victims..thanks
+Author: Min Thike <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.Goldkeypad/index.html
+Name:  Gold Keypad
 
 
-
+Package:com.diamond.keypad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: winterboard
+Filename: debs//Diamondkeypad.deb
+Size: 100026
+MD5sum: c9e134154acba770772e5b1a912a84a8
+SHA1:b27e39b7a4799fb956b4b1d80b3100bdeb5744d2
+SHA256: 16cc9b610f9bfa6f78b135aeb0fe6fb777d2c0c702f5601a2c3fd4214cd6b9ed
+Section: iTheme
+Description: Hello this is Diamond keypad theme for you. Please save Myanmar flood victims..thanks
+Author: MT <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.Diamondkeypad/index.html
+Name:  Diamond Keypad
 
