@@ -213,3 +213,21 @@ Author: MT <mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.Diamondkeypad/index.html
 Name:  Diamond Keypad
 
+
+Package:com.sainplaintain.passcode
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: winterboard
+Filename: debs//SainPlainTainPasscode.deb
+Size: 151794
+MD5sum: 3df7b518df24f4deec72b37b6a81fe80
+SHA1:aedc64dd24ada922bf3bb85563017f988b6bf8c6
+SHA256: 81a0192f5beb4f765b5e67dff1c81635d79e43d59259512f5fc83fb5145d15ca
+Section: iTheme
+Description: Sain Plain Tain Passcode theme.. You need to have winterboard installed.
+Author: MT<mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.sainplaintainpasscode/index.html
+Name:  Sain Plain Tain Passcode Theme
+
+
