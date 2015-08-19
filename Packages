@@ -231,3 +231,19 @@ Depiction: http://mmfamily.github.io/Depic/com.sainplaintainpasscode/index.html
 Name:  Sain Plain Tain Passcode Theme
 
 
+Package:com.LSBarebonesTinyModMM.groovylock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: com.groovycarrot.groovylock
+Filename: debs//LSBarebonesTinyModMM.deb
+Size: 196934
+MD5sum: 1e7f1afa924f7deb4547108da593ff89
+SHA1:ed5d32a580640d17a58bae61c7ffe4b1dcc373f9
+SHA256: 6f480155e692be7d4047cf5e2ecc47305ea4e7c7d3dac7e7d7f9833503663613
+Section: GroovyLock
+Description: LS Barebones Tiny Mod MM GroovyLock, credit to origianl Dev of LS Barebones Tiny Mod
+Author: MT <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.LSBarebonesTinyModMM.groovylock/index.html
+Name:  LS Barebones Tiny Mod MM GroovyLock
+
