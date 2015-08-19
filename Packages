@@ -247,3 +247,19 @@ Author: MT <mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.LSBarebonesTinyModMM.groovylock/index.html
 Name:  LS Barebones Tiny Mod MM GroovyLock
 
+Package:com.goldballoons.passcode
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: winterboard
+Filename: debs//GoldBalloonsPasscode.deb
+Size: 458300
+MD5sum: 0635313d032938dca01c56e6c80f2f70
+SHA1:83303370a0aa45c505e4999db42f24af893c5343
+SHA256: ff55af84ec8ba58cc574b6d3b31f96602c8576b854a4a91130aa0de693c303cc
+Section: iTheme
+Description: Hello this is Gold Balloons Passcode theme for you..You need to have winterboard installed. Please save Myanmar flood victims..thanks
+Author: MT<mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.goldballoons.passcode/index.html
+Name:  Gold Balloons Passcode Theme
+
