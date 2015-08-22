@@ -263,3 +263,22 @@ Author: MT<mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.goldballoons.passcode/index.html
 Name:  Gold Balloons Passcode Theme
 
+
+
+Package:com.ZawgyiGhostLSBarebonesTinyMod.groovylock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: com.groovycarrot.groovylock
+Filename: debs//ZawgyiGhostLSBarebonesTinyMod.deb
+Size: 171564
+MD5sum: 51ecb43ca1cc8046799c75d0fea51ddb
+SHA1:44c277c535ea8b99d51c7593f3615fd75f5881c6
+SHA256: d90b3a61c0b4dd186b705bb0c4a268dcc6af3a4b3cf74125dd5e736fdf7c2876
+Section: GroovyLock
+Description: Zawgyi Ghost LS Barebones Tiny Mod GroovyLock, credit to origianl Dev of LS Barebones Tiny Mod and ghost font creator :)
+Author: MT <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.ZawgyiGhostLSBarebonesTinyMod.groovylock/index.html
+Name:  Zawgyi Ghost LS Barebones Tiny Mod GroovyLock
+
+
