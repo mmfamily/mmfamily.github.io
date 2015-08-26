@@ -282,3 +282,18 @@ Depiction: http://mmfamily.github.io/Depic/com.ZawgyiGhostLSBarebonesTinyMod.gro
 Name:  Zawgyi Ghost LS Barebones Tiny Mod GroovyLock
 
 
+Package:com.jjls101mm.groovylock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: com.groovycarrot.groovylock
+Filename: debs//JJLS101MM.deb
+Size:117392
+MD5sum: 79f08f47890e9405f9c91e3dbc4a366f
+SHA1:b99d0508b2c0dc73d2652fbb4a5e49f5bc76fec6
+SHA256: 7ede736201f27ff5753706d97ea31176eaa3b55fb7057ec979a14bf60c37dbcb
+Section: GroovyLock
+Description: JJ LS 101 MM GroovyLock, credit to origianl Dev of JJ LS 101 and ghost font creator :)
+Author: MT <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.JJLS101MMGroovyLock/index.html
+Name: JJ LS 101 MM GroovyLock
