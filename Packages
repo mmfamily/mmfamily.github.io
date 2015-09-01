@@ -297,3 +297,22 @@ Description: JJ LS 101 MM GroovyLock, credit to origianl Dev of JJ LS 101 and gh
 Author: MT <mt.myanmarfamily@gmail.com>
 Depiction: http://mmfamily.github.io/Depic/com.JJLS101MMGroovyLock/index.html
 Name: JJ LS 101 MM GroovyLock
+
+Package:com.JJLS90MMUniZawgyi.groovylock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mmm
+Depends: com.groovycarrot.groovylock
+Filename: debs//JJLS90MMUniZawgyi.deb
+Size:34500
+MD5sum:26f32ac1e20bb7730a2fbbe6a999d53a
+SHA1:d3b3a9f38b341506facc2f43c5c675a881fdbcdc
+SHA256: 4c0f3a977d82d86b7de89368e3e5b2a855478c4ed84c2b29105ca17e571c2f87
+Section: GroovyLock
+Description: JJ LS 90 MM Uni Zawgyi GroovyLock, credit to origianl Dev of JJ LS 90 and ghost font creator :)
+Author: MT <mt.myanmarfamily@gmail.com>
+Depiction: http://mmfamily.github.io/Depic/com.JJLS90MMUniZawgyiGroovyLock/index.html
+Name: JJ LS 90 MM Uni Zawgyi GroovyLock
+
+
+
